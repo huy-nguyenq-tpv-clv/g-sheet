@@ -1,0 +1,4 @@
+const RFC3339_FORMAT = "YYYY-MM-DDTHH:mm:ss.SSSZ";
+const EXPIRES_SHEET_DAYS = 3;
+
+module.exports = { RFC3339_FORMAT, EXPIRES_SHEET_DAYS };

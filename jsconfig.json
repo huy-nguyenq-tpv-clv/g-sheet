@@ -1,0 +1,8 @@
+{
+  "compilerOptions": {
+    "module": "commonjs",
+    "target": "ES2016",
+    "resolveJsonModule": true
+  },
+  "include": ["src/**/*", "utils/**/*"]
+}
